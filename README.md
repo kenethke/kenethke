@@ -1,7 +1,35 @@
 Java Developer
 --------------
 
-Looking for an internship. --------------------------------------------------------------------------------------------- At the same time study in: Higher educational institution, School 42 / School 21. --------------------------------------------------------------------------------------------- Have knowledge of: Algorithms and data structures, Object-oriented programming, Structured programming principles. --------------------------------------------------------------------------------------------- Now improving level of: English to B2, Java Core. ---------------------------------------------------------------------------------------------- About me: 1) Quickly adapt and learn, 2) Communicable, can easy explain complex things:), 3) Responsive, responsible and punctual. ----------------------------------------------------------------------------------------------
+Looking for an internship. 
+
+---------------------------------------------------------------------------------------------
+
+At the same time study in:
+Higher educational institution,
+School 42 / School 21.
+
+---------------------------------------------------------------------------------------------
+
+Have knowledge of:
+Algorithms and data structures,
+Object-oriented programming,
+Structured programming principles.
+
+---------------------------------------------------------------------------------------------
+
+Now improving level of:
+English to B2,
+Java Core.
+
+----------------------------------------------------------------------------------------------
+
+About me:
+1) Quickly adapt and learn,
+2) Communicable, can easy explain complex things:),
+3) Responsive, responsible and punctual.
+
+----------------------------------------------------------------------------------------------
 
 * ✉️  You can contact me at [meelisa609@gmail.com](mailto:meelisa609@gmail.com)
 * 🚀  I'm currently working on [telegramBot\_parserTickets](http://t.me/AdventTimeBot)
