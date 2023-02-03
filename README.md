@@ -6,21 +6,21 @@ Looking for an internship.
 ---------------------------------------------------------------------------------------------
 
 At the same time study in:
-Higher educational institution,
-School 42 / School 21.
+1) Higher educational institution,
+2) School 42 / School 21.
 
 ---------------------------------------------------------------------------------------------
 
 Have knowledge of:
-Algorithms and data structures,
-Object-oriented programming,
-Structured programming principles.
+1) Algorithms and data structures,
+2) Object-oriented programming,
+3) Structured programming principles.
 
 ---------------------------------------------------------------------------------------------
 
 Now improving level of:
-English to B2,
-Java Core.
+1) English to B2,
+2) Java Core.
 
 ----------------------------------------------------------------------------------------------
 
